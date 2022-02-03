@@ -1,0 +1,9 @@
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\bin\Debug\[2022][ExMAP]TripDaria[1].exe.config
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\bin\Debug\[2022][ExMAP]TripDaria[1].exe
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\bin\Debug\[2022][ExMAP]TripDaria[1].pdb
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\obj\Debug\[2022][ExMAP]TripDaria[1].csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\obj\Debug\[2022][ExMAP]TripDaria[1].csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\obj\Debug\[2022][ExMAP]TripDaria[1].exe
+C:\Users\Daria\source\repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\obj\Debug\[2022][ExMAP]TripDaria[1].pdb
+C:\Users\Daria\Source\Repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\bin\Debug\afisare.txt
+C:\Users\Daria\Source\Repos\Examen_MAP_2022\[2022][ExMAP]TripDaria[1]\[2022][ExMAP]TripDaria[1]\bin\Debug\citire.txt
